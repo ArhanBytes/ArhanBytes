@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone :)&animation=fadeIn&type=waving&color=gradient&height=140"/>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Let's Connect and have a Chat!💬
-&type=transparent&color=gradient&height=80&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?text=HELLO&animation=fadeIn&type=waving&color=gradient&height=140"/>
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Let's_Connect!💬&type=transparent&color=gradient&height=80&fontSize=40"/>
+</p>
 
 # 💫 I'm Muhammad Arhan:
 🎓 I'm learning all about computer science, focusing on C++ and solving puzzles with algorithms in my first year.<br>💡 I love tech and figuring out how things work. I'm always ready to make something new.<br>🗨️keen to chat about cool tech stuff or team up on a project. Let's talk!<br>📧 Drop me a line: muhammadarhan7t6@gmail.com<br><br>
@@ -27,6 +26,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhanbytes&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </p>
 </div>
+
+
+
 
 
 
